@@ -1,0 +1,1 @@
+# P6-AI-Powered-Gym-Tracker-with-Python-and-MediaPipe
