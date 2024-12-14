@@ -1,4 +1,4 @@
-# P6: AI-Powered Gym Tracker with Python and MediaPipe
+# P2: AI-Powered Gym Tracker with Python and MediaPipe
 
 # 1. Install and Import Dependencies: Install MediaPipe, OpenCV, and other required libraries.
 import cv2
