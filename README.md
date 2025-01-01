@@ -1,4 +1,4 @@
-# P6-AI-Powered-Gym-Tracker-with-Python-and-MediaPipe
+# P2-AI-Powered-Gym-Tracker-with-Python-and-MediaPipe
 
 In this project, I developed an AI-powered gym tracker using Pose Estimation techniques. With MediaPipe and Python, I designed a system that detects poses from a live webcam feed, extracts joint coordinates, calculates joint angles, and tracks workout repetitions in real-time. The results are displayed on the screen using OpenCV, creating an interactive and practical fitness tool.
 
@@ -27,4 +27,4 @@ In this project, I developed an AI-powered gym tracker using Pose Estimation tec
 - Interactive Visualization: Renders body landmarks with OpenCV for better user experience.
 - Efficient Pose Analysis: Leverages AI to monitor workout performance and ensure form accuracy.
 
-<img src="https://github.com/iamramzan/P6-AI-Powered-Gym-Tracker-with-Python-and-MediaPipe/blob/main/Gym%20Tracker.jpg">
+[![Video Title](https://img.youtube.com/vi/7D_6EXIWhYM/0.jpg)](https://youtu.be/7D_6EXIWhYM)
