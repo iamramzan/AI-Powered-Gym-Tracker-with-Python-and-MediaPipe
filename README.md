@@ -26,5 +26,3 @@ In this project, I developed an AI-powered gym tracker using Pose Estimation tec
 - Real-Time Feedback: Displays detected poses and rep count live on the screen.
 - Interactive Visualization: Renders body landmarks with OpenCV for better user experience.
 - Efficient Pose Analysis: Leverages AI to monitor workout performance and ensure form accuracy.
-
-[![P2: AI-Powered Gym Tracker with Python and MediaPipe](https://img.youtube.com/vi/7D_6EXIWhYM/0.jpg)](https://youtu.be/7D_6EXIWhYM)
